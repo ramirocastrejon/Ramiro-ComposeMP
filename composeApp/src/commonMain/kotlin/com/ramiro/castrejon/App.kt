@@ -83,6 +83,7 @@ fun App(countries: List<Country> = defaultCountries) {
             }
         }
     }
+    PcRepairHomeScreen()
 }
 
 
